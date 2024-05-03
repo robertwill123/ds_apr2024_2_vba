@@ -1,1 +1,1 @@
-# ds_apr2024_2_vba
+I have stock data and compiled it together to create a leaderboard sorted by stock symbol. The I used that leaderboard to find the max percentage increase and max percentage decrease.
